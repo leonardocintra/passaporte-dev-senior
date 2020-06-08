@@ -2,7 +2,7 @@
 
 Este pacote contém o código final e inicial do exercício do curso.
 
-Pratique seguindo o seu processo de implementação a partir do códingo inicial.
+Pratique seguindo o seu processo de implementação a partir do código inicial.
 
 Abaixo listo mais sugestões de melhorias que você pode exercitar.
 
@@ -22,7 +22,7 @@ Fique livre para incrementar os filtros e configurações do grafo e compartilhe
 - Conclua a refatoração da classe GameOfLive.
 - Transforme a lógica de GUI em uma classe App.
 - Melhore o desenho da GUI usando bitmaps em vez de desenhar cada retângulo.
-- Melhore o Board eliminando a lógica de visitar todos os visinhos para cada célula. Isso pode ser feito com uma tabela de lookup que mantém atualizado o cálculo de visinhos para cada célula na hora que a célula resnasce.
+- Melhore o Board eliminando a lógica de visitar todos os vizinhos para cada célula. Isso pode ser feito com uma tabela de lookup que mantém atualizado o cálculo de vizinhos para cada célula na hora que a célula resnasce.
 - Melhore o Board tornando sua representação mais eficiente com um array de bits.
 - Adapte a função `region` para trabalhar mais próxima do `Coord`.
 
